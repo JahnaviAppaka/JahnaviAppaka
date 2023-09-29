@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jahnavi Appaka</h1>
 <h3 align="center">Pixel Palettes & Data Dreams: An Artistic Tech Journey</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnaviappaka&label=Profile%20views&color=0e75b6&style=flat" alt="jahnaviappaka" /> </p>
+
+- 🌱 I’m currently learning **Master of science in Computer Science at Arizona State University**
+
 - 📫 How to reach me **jahnaviappaka.1017@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
